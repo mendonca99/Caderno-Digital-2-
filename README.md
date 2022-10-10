@@ -9,4 +9,4 @@ Os computadores de primeira geração funcionavam por meio de circuitos e válvu
 
 Um exemplo é o ENIAC (Eletronic Numerical Integrator and Computer) que consumia cerca de 200 quilowatts e possuía 19.000 válvulas.
 
-https://static.todamateria.com.br/upload/en/ia/eniaccomputador.jpg?auto_optimize=low![image](https://user-images.githubusercontent.com/75439043/194851941-98df61a5-7699-4a46-8589-6ff405c49f58.png)
+https://static.todamateria.com.br/upload/en/ia/eniaccomputador.jpg?auto_optimize=low
