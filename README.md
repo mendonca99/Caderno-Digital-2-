@@ -15,3 +15,9 @@ FOTO DO ENIAC
 
 
 <h2> Segunda Geração (1959-1965)</h2>
+
+Ainda com dimensões muito grandes, os computadores da segunda geração funcionavam por meio de transistores, os quais substituíram as válvulas que eram maiores e mais lentas. Nesse período já começam a se espalhar o uso comercial.
+
+Computador da segunda geração com transistores
+
+<h2>Terceira Geração (1965-1975) </h2>
