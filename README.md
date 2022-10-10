@@ -11,15 +11,3 @@ O computador, tal qual conhecemos hoje, passou por diversas transformações e f
 
 Um exemplo é o ENIAC (Eletronic Numerical Integrator and Computer) que consumia cerca de 200 quilowatts e possuía 19.000 válvulas. </h3>
 
-
-
-
-<h1>BitMaps
-
-<h3>
-Um bitmap refere-se a um tipo específico de armazenamento de dados – um mapa de bits.
-
-Um pixmap, por exemplo, é um mapa de pixels.
-
-<h2>Formatos mais comuns
-<h3>
