@@ -11,7 +11,8 @@ O computador, tal qual conhecemos hoje, passou por diversas transformações e f
 
 Um exemplo é o ENIAC (Eletronic Numerical Integrator and Computer) que consumia cerca de 200 quilowatts e possuía 19.000 válvulas. </h3>
 
-FOTO DO ENIAC
+![785px-Eniac](https://user-images.githubusercontent.com/75439043/197504668-3f781b61-87fd-48b1-8798-77488d8df1cc.jpeg)
+
 
 
 <h2> Segunda Geração (1959-1965)</h2>
