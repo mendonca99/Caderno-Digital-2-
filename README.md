@@ -61,10 +61,19 @@ Tão importante foi que, quando os microprocessadores ( marco da quarta geraçã
 
 <h3>Não causa nenhuma revolução como o caso anterior, mas, sem dúvida, é o supercomputador mais poderoso lançado durante esses seis anos , capaz de seguir corretamente três milhões de instruções em um segundo . Isso é possível graças a um processador de 60 bits e suas 10 unidades periféricas. É usado pelo CERN para realizar pesquisas relacionadas à energia nuclear.
 </h3>
+![porta](https://user-images.githubusercontent.com/75439043/197513072-b3838541-eb38-4e53-9719-cceb26132410.png)
 
 
 <h1>Affordances, Signifiers, Feedback</h1>
 
+<h2>Affordance: O óbvio do óbvio</h2>
+
+<h3>Conceito criado originalmente pelo psicólogo J. J. Gibson e posteriormente adaptado para o mundo de Design por Don Norman, Affordance é uma relação entre um objeto e uma pessoa (no caso, um agente que interage com esse objeto). É o relacionamento entre as propriedades do objeto e as capacidades do agente de determinar intuitivamente, ou baseado em experiências anteriores, como o objeto pode ser usado, sem necessidade de explicações, rótulos ou instruções.
+ Uma porta sem maçaneta “affords” empurrar. Maçanetas “affords” girar, empurrar ou puxar.
+  </h3>
+  
+  
+Explicativo:https://youtu.be/a6F0EYCUjcE
 <h2>Signifiers: os melhores amigos dos designer</h2>
 
 <h3>O segundo conceito fundamental da interação, o Signifier (que pode ser traduzido como “significante”), é aquele que entra em campo quando a Affordance não dá conta do recado. Ele vem para clarificar e ilustrar/descrever o que um objeto pode fazer, de forma muito clara, ou sutil.
