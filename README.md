@@ -69,7 +69,8 @@ Tão importante foi que, quando os microprocessadores ( marco da quarta geraçã
 
 <h3>O segundo conceito fundamental da interação, o Signifier (que pode ser traduzido como “significante”), é aquele que entra em campo quando a Affordance não dá conta do recado. Ele vem para clarificar e ilustrar/descrever o que um objeto pode fazer, de forma muito clara, ou sutil.
 </h3>
-(https://user-images.githubusercontent.com/75439043/197510637-bd9364b2-9a8d-46aa-a75b-c40b23a0b381.gif)
+![200w](https://user-images.githubusercontent.com/75439043/197511606-5207f0ae-af3e-4fdc-9f20-ac0206b73be7.gif)
+
 <h3>
 Um exemplo claro desse complemento é de uma porta com apoio para puxar que pode abrir puxando ou empurrando. Você não sabe intuitivamente qual ação tomar. Aí você tenta um e, se errar, tenta o outro. A Affordance não é clara o suficiente. Nesse caso, se colocamos uma placa de “puxe” ou “empurre”, que é o Signifier que guia o usuário ao objetivo, já há uma diminuição considerável de pessoas tentando abrir do jeito errado.
 </h3>
