@@ -84,6 +84,3 @@ Um exemplo claro desse complemento é de uma porta com apoio para puxar que pode
 </h3>
 
 ![maçaneta](https://user-images.githubusercontent.com/75439043/197512301-43bbe4ba-2e98-4574-8c96-971109d1528d.jpeg)
-
-
-https://brasil.uxdesign.cc/affordance-o-óbvio-do-óbvio-e91761f4403b
