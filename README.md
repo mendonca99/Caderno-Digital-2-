@@ -61,3 +61,16 @@ Tão importante foi que, quando os microprocessadores ( marco da quarta geraçã
 
 <h3>Não causa nenhuma revolução como o caso anterior, mas, sem dúvida, é o supercomputador mais poderoso lançado durante esses seis anos , capaz de seguir corretamente três milhões de instruções em um segundo . Isso é possível graças a um processador de 60 bits e suas 10 unidades periféricas. É usado pelo CERN para realizar pesquisas relacionadas à energia nuclear.
 </h3>
+
+
+<h1>Affordances, Signifiers, Feedback</h1>
+
+<h2>Signifiers: os melhores amigos dos designer</h2>
+
+<h3>O segundo conceito fundamental da interação, o Signifier (que pode ser traduzido como “significante”), é aquele que entra em campo quando a Affordance não dá conta do recado. Ele vem para clarificar e ilustrar/descrever o que um objeto pode fazer, de forma muito clara, ou sutil.
+</h3>
+![1*laEKo8xGrCd1n29LZ6_EgA](https://user-images.githubusercontent.com/75439043/197510637-bd9364b2-9a8d-46aa-a75b-c40b23a0b381.gif)
+<h3>
+Um exemplo claro desse complemento é de uma porta com apoio para puxar que pode abrir puxando ou empurrando. Você não sabe intuitivamente qual ação tomar. Aí você tenta um e, se errar, tenta o outro. A Affordance não é clara o suficiente. Nesse caso, se colocamos uma placa de “puxe” ou “empurre”, que é o Signifier que guia o usuário ao objetivo, já há uma diminuição considerável de pessoas tentando abrir do jeito errado.
+</h3>
+![1*UKIVoiyKebE15zx5J-vpdA](https://user-images.githubusercontent.com/75439043/197510933-528b6376-a542-482a-865e-96f92fd8f3ff.jpeg)
