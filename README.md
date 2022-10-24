@@ -84,3 +84,11 @@ Um exemplo claro desse complemento é de uma porta com apoio para puxar que pode
 </h3>
 
 ![maçaneta](https://user-images.githubusercontent.com/75439043/197512301-43bbe4ba-2e98-4574-8c96-971109d1528d.jpeg)
+
+<h1>Feedback</h1>
+
+A palavra “feedback” é original do idioma inglês e pode ser traduzida como “retroalimentação”, que significa a resposta dada a uma ação ou postura como forma de avaliação. Ela tem objetivo de levar o interlocutor a entender como o seu comportamento foi interpretado ou recebido pelo outro.
+<h2>Tipos de Feedback</h2>
+<h3>O feedback positivo tem como objetivo elogiar uma atitude ou comportamento que teve um impacto positivo e que gostaríamos que ele se repetisse. Já o feedback construtivo tem como objetivo abordar algum comportamento ou atitude que obteve um impacto negativo e que pode ser aprimorado. Já o feedback negativo, para efeitos de didática, é aquele feedback sobre algo que poderia ser aprimorado, mas que que não endereça ao outro elementos suficientes para que a pessoa possa compreender de fato o que pode ser aprimorado. É somente um comentário negativo que pode ou não ter efeitos no comportamento que entendemos que seria importante ser modificado.</h3>
+
+![Feed](https://user-images.githubusercontent.com/75439043/197513833-63c53265-c716-42a0-a2ad-ba2934fd34e7.jpeg)
