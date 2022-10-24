@@ -75,4 +75,5 @@ Tão importante foi que, quando os microprocessadores ( marco da quarta geraçã
 <h3>
 Um exemplo claro desse complemento é de uma porta com apoio para puxar que pode abrir puxando ou empurrando. Você não sabe intuitivamente qual ação tomar. Aí você tenta um e, se errar, tenta o outro. A Affordance não é clara o suficiente. Nesse caso, se colocamos uma placa de “puxe” ou “empurre”, que é o Signifier que guia o usuário ao objetivo, já há uma diminuição considerável de pessoas tentando abrir do jeito errado.
 </h3>
-(https://user-images.githubusercontent.com/75439043/197510933-528b6376-a542-482a-865e-96f92fd8f3ff.jpeg)
+![197510933-528b6376-a542-482a-865e-96f92fd8f3ff](https://user-images.githubusercontent.com/75439043/197512232-ea94f891-d436-4a30-ba22-b8585323452e.jpeg)
+
