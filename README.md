@@ -23,3 +23,39 @@ Ainda com dimensões muito grandes, os computadores da segunda geração funcion
 
 
 <h2>Terceira Geração (1965-1975) </h2>
+
+
+<h3>Quais computadores em destaque apareceram na 3ª geração de computadores?</h3>
+
+Edgar Series
+
+![Serie-Edgar-IBM](https://user-images.githubusercontent.com/75439043/197507800-fbb4ef38-c57f-472d-b43d-2feb48a9b6ca.jpeg)
+
+O Edgar ou 360 Series é um conjunto de computadores IBM que fazem a transição entre essa geração e a anterior . Foi o primeiro a incluir circuitos integrados em suas máquinas de mercado . O impacto destes e o que sua comercialização supõe são tais que sua importância na história é incalculável.
+
+A partir desta série, sabendo que todos os dispositivos executavam o mesmo software, embora diferissem nos demais recursos, para se adaptarem a diferentes necessidades, o que tornou as vendas um precedente no setor.
+
+
+PDP-8
+
+![PDP-8](https://user-images.githubusercontent.com/75439043/197507948-3ca66fc7-8154-49b9-ad4c-bc7fceee62d4.jpeg)
+
+Foi considerado o primeiro minicomputador que a empresa poderia adquirir , lançado em 1965. Vem da mão do DEC e foram vendidas 500.000 cópias.
+
+Ele suportava Basic, Fortran II / IV, Focal 71 e C ++ como linguagens de programação e trabalhava com macros para obter operações lógicas mais avançadas do que as que eram vendidas comercialmente.
+
+PDP-11
+
+![pdp11](https://user-images.githubusercontent.com/75439043/197508192-472a6360-cb60-4059-844f-5a0c08b25479.jpeg)
+
+Outra grande máquina (tipo minicomputador) da série PDP da DEC que começou a ser comercializada no final desta geração e que permaneceu tão lucrativa no mercado por uma década inteira .
+
+Destaca-se por ser o primeiro em que seus principais elementos foram interconectados em um único barramento também assíncrono (UNIBUS). O resultado foi o envio, recebimento e troca de informações com outros dispositivos, sem a necessidade de executar uma etapa intermediária na memória.
+
+Tão importante foi que, quando os microprocessadores ( marco da quarta geração ) foram introduzidos, esse dispositivo não era obsoleto, mas foi modificado para tê-los .
+
+CDC 6600
+
+![CDC_6600 jc](https://user-images.githubusercontent.com/75439043/197508402-6a8053b8-66a9-4303-b3cc-6ea12f4e0941.jpeg)
+
+Não causa nenhuma revolução como o caso anterior, mas, sem dúvida, é o supercomputador mais poderoso lançado durante esses seis anos , capaz de seguir corretamente três milhões de instruções em um segundo . Isso é possível graças a um processador de 60 bits e suas 10 unidades periféricas. É usado pelo CERN para realizar pesquisas relacionadas à energia nuclear.
