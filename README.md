@@ -19,6 +19,7 @@ Um exemplo é o ENIAC (Eletronic Numerical Integrator and Computer) que consumia
 
 Ainda com dimensões muito grandes, os computadores da segunda geração funcionavam por meio de transistores, os quais substituíram as válvulas que eram maiores e mais lentas. Nesse período já começam a se espalhar o uso comercial.
 
-Computador da segunda geração com transistores
+![segunda-generación-de-computadoras](https://user-images.githubusercontent.com/75439043/197504865-a7430e27-cbbf-4089-a69b-76aac175243d.jpeg)
+
 
 <h2>Terceira Geração (1965-1975) </h2>
