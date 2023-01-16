@@ -106,7 +106,7 @@ São os "utilizadores finais" que conseguiremos captar e definir nosso planejame
  <h2>Utilizadores Tercearios</h2>
  <h3>São os estranhos, mas também um ótimo dado. São aqueles que não planejamos, não fizemos testes, conteúdo e que não estávamos esperando. O surgimento desse grupo pode ser tanto negativa como positiva, representando um novo ciclo e novos caminhos para a solução proposta.</h3>
  
- 
+ <p>
  <h1>Projeto Prático - Proposta</h1>
  
  
