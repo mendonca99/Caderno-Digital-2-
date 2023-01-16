@@ -95,3 +95,22 @@ Um exemplo claro desse complemento é de uma porta com apoio para puxar que pode
 <h3>  -Já o feedback negativo, para efeitos de didática, é aquele feedback sobre algo que poderia ser aprimorado, mas que que não endereça ao outro elementos suficientes para que a pessoa possa compreender de fato o que pode ser aprimorado. É somente um comentário negativo que pode ou não ter efeitos no comportamento que entendemos que seria importante ser modificado.</h3>
 
 ![Feed](https://user-images.githubusercontent.com/75439043/197513833-63c53265-c716-42a0-a2ad-ba2934fd34e7.jpeg)
+
+ <h1>Tipos de usuarios</h1>
+ <h3>Personas são atualizadas com o passar do tempo sempre que surgir uma necessidade (no mercado e projeto). Com o estudo, conseguimos classificar nossos utulizadores dentro do modelo conceitual proposto, neles como Primário, Secundário e Terciário.</h3>
+ <h2>Utilizadores primário</h2>
+ <h3>O usuário primário nada mais é que nosso "público-alvo", onde deveremos olhar para entrar no mercado. São o grupo de utilizadores que utilizarão o produto e/ou solução que estamos criando.
+São os "utilizadores finais" que conseguiremos captar e definir nosso planejamento estratégico. Sendo eles nossos clientes ou clientes de nossos clientes.
+ <h2>Utilizadores Secundários</h2>
+ </h3>Somos nós os UX'ers, projetistas e estrategistas. Também são toda a equipe envolvida no projeto/solução de forma direta ou indireta (stakeholders), UX writers e desenvolvedores. Todos que estão envolvidos de dentro de uma visão alta do projeto, são considerados usuários secundários.</h3>
+ <h2>Utilizadores Tercearios</h2>
+ <h3>São os estranhos, mas também um ótimo dado. São aqueles que não planejamos, não fizemos testes, conteúdo e que não estávamos esperando. O surgimento desse grupo pode ser tanto negativa como positiva, representando um novo ciclo e novos caminhos para a solução proposta.</h3>
+ 
+ 
+ <h1>Projeto Prático - Proposta</h1>
+ 
+<h3>A criação de um ecossistema inteligente é condição necessária para fornecer um conjunto de soluções e serviços adequados, e nesse processo, pessoas, governos, iniciativa privada e sociedade civil devem todas participar. E a tecnologia, hoje tão presente na vida dos cidadãos, também é parte disso. Com a sua abrangência, capacidade de diminuir distâncias, organizar informações e melhorar respostas tanto ao nível dos indivíduos quanto ao nível da coletividade, a tecnologia não pode ser deixada de lado ao pensar-se no bem comum.
+Deste modo, o meu projeto pretende definir uma nova forma de gestão assente numa governação baseada na colaboração entre a comunidade e as entidades responsáveis.
+Neste sentido, o cidadão assume o papel central na identificação e comunicação dos problemas que o afetam e à comunidade circundante, enquanto às entidades governamentais cabe o papel de receber estas ocorrências e proceder a uma efetiva resolução dos reais problemas que afetam as suas comunidades.</h3>
+
+ <img width="153" alt="Captura de ecrã 2023-01-16, às 21 58 15" src="https://user-images.githubusercontent.com/75439043/212771534-273e0be5-a180-4096-a904-c8c0aadd2330.png">
