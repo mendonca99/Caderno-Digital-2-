@@ -95,10 +95,3 @@ Um exemplo claro desse complemento é de uma porta com apoio para puxar que pode
 <h3>  -Já o feedback negativo, para efeitos de didática, é aquele feedback sobre algo que poderia ser aprimorado, mas que que não endereça ao outro elementos suficientes para que a pessoa possa compreender de fato o que pode ser aprimorado. É somente um comentário negativo que pode ou não ter efeitos no comportamento que entendemos que seria importante ser modificado.</h3>
 
 ![Feed](https://user-images.githubusercontent.com/75439043/197513833-63c53265-c716-42a0-a2ad-ba2934fd34e7.jpeg)
-
-
-<h1>O que são signifiers?</h1>
-
-<h3>O segundo conceito fundamental da interação, o Signifier (que pode ser traduzido como “significante”), é aquele que entra em campo quando a Affordance não dá conta do recado. Ele vem para clarificar e ilustrar/descrever o que um objeto pode fazer, de forma muito clara, ou sutil.</h3>
-<h3>Segundo Norman, um Signifier seria:
-“Qualquer marca ou som, qualquer indicador perceptível que comunique, de forma apropriada, um comportamento para uma pessoa.”</h3>
