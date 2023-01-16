@@ -123,3 +123,16 @@ Neste sentido, o cidadão assume o papel central na identificação e comunicaç
  
 <img width="142" alt="Captura de ecrã 2023-01-16, às 21 59 51" src="https://user-images.githubusercontent.com/75439043/212771735-fc5e12c9-eddc-428f-bf9e-48d5811bba97.png">
  <h3>Prótotipo de Alta fidelidade</h3>
+ 
+ 
+<h1> O que é o Adobe Experience Design (Adobe XD)</h1>
+<h3>O Adobe XD é uma ferramenta que auxilia os profissionais de design na concepção de um projeto, seja na criação de um site ou no desenvolvimento de um aplicativo.
+
+Presente no pacote Adobe Creative Cloud, o aplicativo permite que você faça rascunhos, crie protótipos e tenha a visualização do projeto em mockups, tanto de dispositivos Android quanto iOS.
+
+Disponível para Windows e macOS, o Adobe XD é baseado em vetores e tem recursos como grade repetição e plugins específicos. Além disso, o software também oferece a opção de criar animações e projetos em 3D de forma colaborativa, ou seja, com profissionais desenvolvendo em tempo real em um único projeto.</h3>
+
+
+ <h1>Projeto Prático - Proposta Final</h1>
+ 
+ <img width="896" alt="Captura de ecrã 2023-01-16, às 22 09 36" src="https://user-images.githubusercontent.com/75439043/212772686-ff0f88c1-a0f7-44a5-9181-dfa6042e5dd4.png">
