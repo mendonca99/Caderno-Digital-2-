@@ -117,5 +117,9 @@ Neste sentido, o cidadão assume o papel central na identificação e comunicaç
 
 
 
- <img width="153" alt="Captura de ecrã 2023-01-16, às 21 58 15" src="https://user-images.githubusercontent.com/75439043/212771534-273e0be5-a180-4096-a904-c8c0aadd2330.png"><img width="142" alt="Captura de ecrã 2023-01-16, às 21 59 51" src="https://user-images.githubusercontent.com/75439043/212771735-fc5e12c9-eddc-428f-bf9e-48d5811bba97.png">
-
+ <img width="122" alt="Captura de ecrã 2023-01-16, às 22 00 58" src="https://user-images.githubusercontent.com/75439043/212771862-97030984-27ea-492e-9943-8ed7b9ad5dea.png">
+ <h3>Prótotipo de Baixa fidelidade</h3>
+ 
+ 
+<img width="142" alt="Captura de ecrã 2023-01-16, às 21 59 51" src="https://user-images.githubusercontent.com/75439043/212771735-fc5e12c9-eddc-428f-bf9e-48d5811bba97.png">
+ <h3>Prótotipo de Alta fidelidade</h3>
